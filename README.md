@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fktiez
 - 👀 I’m interested in basketball ️🏀
-- 🌱 I’m currently learning FPT University
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning FPT University Da Nang
 - 📫 How to reach me phuctienrt@gmail.com
 
 <!---
