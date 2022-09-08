@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fktiez
+- 👋 Hi, I’m Tran Phuc Tien
 - 👀 I’m interested in basketball ️🏀
 - 🌱 I’m currently learning FPT University Da Nang
 - 📫 How to reach me phuctienrt@gmail.com
